@@ -1,0 +1,7 @@
+C:\Users\tina7\Desktop\12427353-Jingting Zhao\calc_zjt\calc_zjt\bin\Debug\calc_zjt.exe.config
+C:\Users\tina7\Desktop\12427353-Jingting Zhao\calc_zjt\calc_zjt\bin\Debug\calc_zjt.exe
+C:\Users\tina7\Desktop\12427353-Jingting Zhao\calc_zjt\calc_zjt\bin\Debug\calc_zjt.pdb
+C:\Users\tina7\Desktop\12427353-Jingting Zhao\calc_zjt\calc_zjt\obj\x86\Debug\calc_zjt.csprojAssemblyReference.cache
+C:\Users\tina7\Desktop\12427353-Jingting Zhao\calc_zjt\calc_zjt\obj\x86\Debug\calc_zjt.csproj.CoreCompileInputs.cache
+C:\Users\tina7\Desktop\12427353-Jingting Zhao\calc_zjt\calc_zjt\obj\x86\Debug\calc_zjt.exe
+C:\Users\tina7\Desktop\12427353-Jingting Zhao\calc_zjt\calc_zjt\obj\x86\Debug\calc_zjt.pdb

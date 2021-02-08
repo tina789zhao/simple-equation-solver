@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{61CFCABA-FF4C-4D4E-A60B-ADA415FEE8FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="calc_zjt/Program.cs">
+    <Files>
+      <File FileName="calc_zjt/Program.cs" Line="724" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.calc__zjt PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
